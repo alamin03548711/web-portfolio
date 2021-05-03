@@ -1,0 +1,25 @@
+body{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Pangolin', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Teko', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name{
+    color: aqua;
+}
+.name-highlite{
+    color: red;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
